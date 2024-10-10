@@ -11,5 +11,3 @@ This is a simple web application called CatPhotoApp, created as a practice proje
 - Lists of things cats love and hate
 - A form to submit your own cat photo URL
 - imple and user-friendly design
-
-"# CatPhotoApp" 
